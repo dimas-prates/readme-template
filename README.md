@@ -1,7 +1,7 @@
 # **readme-template**
 
 ## Index
-- repo size | language of doc | issues | last update  **(stat)**
+- repo size | doc language| issues | last update  **(stat)**
 - Tecnologias | Projeto   |    Layout   |    Licença
 
 # What is this? (about)
