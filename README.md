@@ -1,7 +1,8 @@
 # **readme-template**
 
-# Index 
-- Tecnologias   |    Projeto   |    Layout   |    Licença
+## Index
+- repo size | language of doc | issues | last update  **(stat)**
+- Tecnologias | Projeto   |    Layout   |    Licença
 
 # What is this? (about)
 
@@ -14,3 +15,9 @@
 # Whatever, can I use it? (licence)
 
 # Ok, but I have a question... (FAQ)
+
+# Is there some tutorial?
+
+arrow_up Voltar ao topo
+
+https://github.com/iuricode/README-template/blob/main/badges/badges.md
