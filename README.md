@@ -1,4 +1,4 @@
-# :warning:	*** IN PROGRESS ***
+# :warning:	**IN PROGRESS**
 
 ## readme-template
 
